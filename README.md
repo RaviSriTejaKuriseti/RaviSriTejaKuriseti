@@ -10,6 +10,6 @@
 - ⚛️ I’m curious about Quantum-Computing ...
 - ♾️ I love solving Complex Mathematics Problems...
 - ♕♔ I like to play Chess...<br>
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=prussian)]
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=prussian)
 
 
