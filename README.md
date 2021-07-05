@@ -15,4 +15,6 @@
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=solarized-dark)
 
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RaviSriTejaKuriseti&repo=Qiskit-Codes)-->
+
 
