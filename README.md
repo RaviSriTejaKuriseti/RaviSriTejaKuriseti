@@ -13,6 +13,6 @@
 - 📧 Reach me at [pandukuriseti@gmail.com](mailto:pandukuriseti@gmail.com)<br>
 
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=prussian)
+![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=solarized-dark)
 
 
