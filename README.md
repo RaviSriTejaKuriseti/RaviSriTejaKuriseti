@@ -12,7 +12,7 @@
 - ♔ I like to play Chess...
 - 📧 Reach me at [pandukuriseti@gmail.com](mailto:pandukuriseti@gmail.com)<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSriTejaKuriseti&exclude_repo=COL215-Labs&layout=compact&card_width=440)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSriTejaKuriseti&exclude_repo=COL215-Labs,COL226&layout=compact&card_width=440)
 
 ![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=RaviSriTejaKuriseti&count_private=true&show_icons=true&theme=radical)
 
