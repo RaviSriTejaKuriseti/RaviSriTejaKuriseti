@@ -11,7 +11,7 @@
 - ♾️ I love solving Complex Mathematics Problems...
 - ♔ I like to play Chess...
 - 📧 Reach me at [pandukuriseti@gmail.com](mailto:pandukuriseti@gmail.com)<br>
-- Visit https://ravisritejakuriseti.github.io/ for more details
+- https://ravisritejakuriseti.github.io/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviSriTejaKuriseti&exclude_repo=COL215-Labs,COL226&layout=compact&card_width=440)
 
